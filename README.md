@@ -24,7 +24,7 @@ Mahasiswa semester 6 **Teknik Informatika** di Universitas Sam Ratulangi Manado 
 
 ## 🎓 Pendidikan
 
-- 📚 **Teknik Informatika** - Universitas Sam Ratulangi Manado (2021 - Sekarang)
+- 📚 **Teknik Informatika** - Universitas Sam Ratulangi Manado (2022 - Sekarang)
 
 ## 📚 Training & Sertifikasi
 
