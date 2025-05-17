@@ -92,25 +92,21 @@ Mahasiswa semester 6 **Teknik Informatika** di Universitas Sam Ratulangi Manado 
 - 🥇 **4th place** in National Physics Olympiad at University Level (competed against 30+ participants) - BPTI – May 22nd through 25th, 2024
 
 ## 🌟 Proyek Unggulan
-🏥 FitGuard
-Aplikasi mobile yang dirancang untuk membantu pasien diabetes menjalani gaya hidup sehat dan mengikuti pengobatan secara konsisten.
-Peran & Kontribusi:
+🏥 FitGuard <br>
+Aplikasi mobile yang dirancang untuk membantu pasien diabetes menjalani gaya hidup sehat dan mengikuti pengobatan secara konsisten. <br>
+Peran & Kontribusi: <br>
 - Berkolaborasi dengan tim yang terdiri dari 2 anggota cloud computing, 2 pengembang mobile, dan 3 anggota machine learning
 - Bertanggung jawab untuk fine-tuning berbagai model
 - Membantu tim cloud computing dalam proses deployment aplikasi
 
-🤖 SPARK CHATBOT
-Aplikasi chatbot mobile berbasis AI generatif menggunakan model Llama.
+🤖 SPARK CHATBOT <br>
+Aplikasi chatbot mobile berbasis AI generatif menggunakan model Llama. <br>
 Peran & Kontribusi:
 - Berkolaborasi dengan tim lebih dari 15 Machine Learning Engineer
 - Berpartisipasi dalam TECHOFEST 2024 melalui proyek SPARK, bersama proyek unggulan lainnya seperti ReportFormatter, Techoverse, dan Crypnity
 - Bertanggung jawab untuk fitur penerjemahan yang memungkinkan chatbot SPARK mendukung percakapan dalam berbagai bahasa
 
 ## 🎮 Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/natalio123/natalio123/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Game">
