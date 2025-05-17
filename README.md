@@ -89,7 +89,7 @@ Mahasiswa semester 6 **Teknik Informatika** di Universitas Sam Ratulangi Manado 
 
 ## 🏆 Prestasi
 
-- 🥇 **4th place** in National Physics Olympiad at University Level (competed against 30+ participants) - BPTI – May 22nd through 25th, 2024
+- 🥇 **4th place** in National Physics Olympiad at University Level (competed against 30+ participants) - BPTI – May 22nd through 25th, 2023
 
 ## 🌟 Proyek Unggulan
 🏥 FitGuard <br>
