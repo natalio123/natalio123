@@ -18,7 +18,7 @@
 
 ## 🚀 Tentang Saya
 
-Mahasiswa semester 6 **Teknik Informatika** di Universitas Sam Ratulangi Manado dengan minat yang kuat di bidang Machine Learning dan Data Science. Saya senang mengeksplorasi data dan mengembangkan solusi berbasis AI.
+Mahasiswa semester 8 Teknik Informatika di Universitas Sam Ratulangi Manado dengan minat kuat di bidang Machine Learning dan Data Science. Memiliki pengalaman dalam eksplorasi data, analisis, serta pengembangan solusi berbasis AI. Saat ini terbuka untuk kesempatan kerja maupun entry-level position yang relevan untuk mengembangkan kemampuan teknis dan profesional di dunia industri.
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
