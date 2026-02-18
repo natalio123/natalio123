@@ -116,5 +116,5 @@ Peran & Kontribusi:
 <div align="center">
   <b>Terima kasih telah mengunjungi profil saya!</b>
   
-  ![Visitor Count](https://profile-counter.glitch.me/natalio123/count.svg)
+  ![Profile Views](https://komarev.com/ghpvc/?username=natalio123&color=blue)
 </div>
